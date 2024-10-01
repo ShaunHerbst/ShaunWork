@@ -1,0 +1,50 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>Welcom to my webpage</title>
+</head>
+<body>
+
+    <h1>Welcome to my webpage</h1>
+    <h2>About this page</h2>
+
+    <p>This page demonstrates the use of various <strong>HTML</strong> tags, arranged in a way that makes sense.</p>
+    <p> <strong>This sentence is bold to emphasize important information. </strong> </p>
+    <p> <em>This sentence is italicized to show emphasis in a different way. </em> </p>
+    <p> <small>This text is slightly smaller than the rest of the content on the page.</small> </p>
+
+    <h2>My Hobbies</h2>
+
+    <p>Here are a few things I enjoy doing in my free time:</p>
+
+    <p><ul><li>Reading books</li></ul> </p>
+    <p><ul><li>Coding</li></ul></p>
+    <p><ul><li>Exploring nature</li></ul></p>
+
+    <p><strong>Steps to Create a Simple Webpage</strong></p>
+
+    <P> 1. Learn basic HTML tags. 
+        2. Set up a development environment like VS Code. 
+        3. Write and test your HTML code. 
+        4. Preview your webpage in a browser. </P>
+
+        <h3>Explore More</h3>
+        <P>Visit this website to learn more about web development.</P>
+
+
+
+
+ <p><strong>Fun Fact </strong></p>
+
+<p>Did you know? HTML stands for HyperText Markup Language.</p>
+
+<p>"The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards." - W3C 
+</p>
+
+<p>This text is styled using inline CSS to be blue in color.</p>
+
+<p>The word HTML is styled in red to stand out from the rest of the text. </p>
+
+<p><small>Thank you for visiting my webpage!</small></p>
+
+
