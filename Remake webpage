@@ -23,10 +23,10 @@
 
     <p><strong>Steps to Create a Simple Webpage</strong></p>
 
-    <P> 1. Learn basic HTML tags. 
-        2. Set up a development environment like VS Code. 
-        3. Write and test your HTML code. 
-        4. Preview your webpage in a browser. </P>
+    <P> <ol><li type='1'>Learn basic HTML tags.</li> </ol> 
+        <ol><li type='2'>Set up a development environment like VS Code </li></ol> 
+        <ol><li type='3'>Write and test your HTML code. </li></ol>
+        <ol><li type='4'>Preview your webpage in a browser. </li></ol> </P>
 
         <h3>Explore More</h3>
         <P>Visit this website to learn more about web development.</P>
